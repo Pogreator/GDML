@@ -67,4 +67,4 @@ For use of the tree in the new script, a simple `get_tree()` would work.
 The limit to what a mod can do is bound to the user, since godot allows for (baisically) infinite possibilities when the mod loader is the scene tree.  
 Anything from VR conversions, graphics overhauls and new content is possible.  
 
-Mods MUST be turned into a zip archive for use.
+**Mods MUST be turned into a zip archive for use.**
